@@ -1,7 +1,4 @@
-//24. Create a class named Employee with data members: emp_id, name, position and salary.
-//Now, input the records of n employees and store them in a file named “employee.dat”.
-//After writing the data to the file, read the records from the file and display the
-//information of those employees whose salary is greater than 25,000.
+//23. Write a C++ program to illustrate reading and writing into multiple files.
 #include<iostream>
 #include<fstream>
 using namespace std;
