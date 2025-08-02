@@ -1,7 +1,6 @@
-//12.The Books class derives information from both the Student and Teacher classes, which in turn
-//derive information from the College class. Define all four classes with at least one parameterized
-//constructor and a void display() method in each class. In the main() function, create an object of
-//the Books class, initialize all data members, and display them.
+//12. Write a complete program based on the provided figure. Note that alpha, beta and gamma
+//are the class names and showa( ) ,showb( ) and showg( ) are the functions that display the
+//data members of their respective classes.
 #include <iostream>
 using namespace std;
 class alpha
