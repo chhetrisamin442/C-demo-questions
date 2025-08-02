@@ -1,3 +1,7 @@
+//1. Create two classes named Vehicle1 and Vehicle2, each having a private data member
+//named price. Add a member function setPrice() in each class to assign a value of price.
+//Also, define a friend function max() that has access to both classes. The max() function
+//should compare the price values and display the maximum price.
 #include <iostream>
 using namespace std;
 class Vehicle2;
